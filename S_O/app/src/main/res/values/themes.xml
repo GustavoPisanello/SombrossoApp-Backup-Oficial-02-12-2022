@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Sombrosso" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Light Mode -->
+    <!-- Tela se o Light Mode estiver ligado -->
+    <style name="TELA">
+        <item name="android:background">#FFF</item>
+    </style>
+
+    <!-- Textos se o Light Mode estiver ligado -->
+  <style name="TEXTO">
+      <item name="android:textColor">#000</item>
+  </style>
+
+    <!--Botões se o Light Mode estiver ligado -->
+    <style name="BOTAO">
+        <item name="android:textColor">#000</item>
+        <item name="android:background">#B797C8EF</item>
+    </style>
+</resources>

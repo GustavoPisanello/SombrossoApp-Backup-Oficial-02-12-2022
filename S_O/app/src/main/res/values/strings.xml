@@ -1,0 +1,117 @@
+<resources>
+    //Activity_Inicio
+    <string name="app_name">Sombrosso</string>
+    <string name="_0">0 %</string>
+    <string name="todo">TODO</string>
+    <string name="direitos">Copyright © 2022 - Alexandre e Gustavo Laur - Todos os Direitos Reservados</string>
+    <string name="trailer">TRAILER</string>
+
+    //Activity_Menu
+    <string name="Inicio">Início</string>
+    <string name="Livros">Livros</string>
+    <string name="Atores">Atores</string>
+    <string name="Reinos">Reinos</string>
+    <string name="Poderes">Poderes</string>
+    <string name="Curio">Curiosidades</string>
+    <string name="Config">Configurações</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+
+    //Activity Config
+    <string name="ConfigTitulo">Configurações </string>
+    <string name="ConfigTitulo1">Gerais</string>
+    <string name="ModoExibicao">Dark Mode</string>
+    <string name="Cadastro">Cadastre-se</string>
+    <string name="TextView10">Clique aqui para se cadastrar: </string>
+
+
+    // Activity Cadastro/Login
+    <string name="NomeUsu">Usuário: </string>
+    <string name="SenhaUsu">Senha: </string>
+    <string name="RepSenhaUsu">Confirme a senha: </string>
+    <string name="Login">Login</string>
+    <string name="textoLogin">Já tem uma conta? Faça Aqui seu Login: </string>
+    <string name="textoCad"> Não tem uma conta? Faça Aqui seu cadastro: </string>
+    <string name="InstruNome">Digite seu Nome: </string>
+    <string name="InstruSenha">Digite sua Senha: </string>
+    <string name="InstruRepSenha">Digite sua Senha novamente: </string>
+
+    //Activity_Livros-LinkAmazon
+    <string name="aqquira">Adquira seu livro aqui</string>
+
+    //Activity_Livros_textos_dos_blocos
+    <string name="liv1">As únicas preocupações de Alina Starkov são esconder seus sentimentos por seu melhor amigo e trabalhar como cartografa. Até que um certo dia ela é atacada na Dobra e Alina descobre: pode ser muito mais do que jamais pensou.</string>
+    <string name="liv2">No segundo livro, a Conjuradora do Sol se vê, novamente em um dilema envolvendo a Dobra, e uma pergunta paira no ar, seus poderes serão capazes de salvar sua própria vida, ou ainda, seu próprio reino?</string>
+    <string name="liv3">A incessante busca por vitória, traz a Alina desafios ainda maiores e ser considerada uma Santa, que carrega a esperança nos braços é uma espécie de dor insuportável, então ela irá atras do mitológico pássaro de fogo para salvar a si mesma e seus fiéis.  </string>
+
+    //Activity_Atores-Nomes
+    <string name="Jess">Jessie Mei Li</string>
+    <string name="Alina">Alina Starkov</string>
+
+    <string name="Ben">Ben Barnes</string>
+    <string name="Kirigan">General Kirigan</string>
+
+    <string name="Archie">Archie Renaux</string>
+    <string name="Maylen">Maylen</string>
+
+    <string name="Fred">Freddy Carter</string>
+    <string name="Kaz">Kaz Brekker</string>
+
+    <string name="Amita">Amita Suman</string>
+    <string name="Inej">Inej Ghafa</string>
+
+    <string name="Dani">Danielle Galligan</string>
+    <string name="Nina">Nina Zenik</string>
+
+
+    //Activity_Reinos
+    <string name="m1">RAVKA</string>
+    <string name="m2">KERCH</string>
+    <string name="m3">FJERDA</string>
+    <string name="m4">SHU HAN</string>
+    <string name="m5">A WANDERING ISLE</string>
+    <string name="m6">NOVYI ZEM</string>
+    <string name="btnTitulo">Reinos de Sombra e Ossos</string>
+    <string name="botaum">Clique aqui para se encontrar na terra dos grishas</string>
+
+
+    //ACTIVITY_REINOS_BUSSOLA
+    <string name="onde">Mapear área</string>
+    <string name="salvaArea">Salvar Localização</string>
+
+
+    //Activity_poderes
+    <string name="corpo">CORPORALKY</string>
+    <string name="san">Morte</string>
+    <string name="cur">Cura</string>
+    <string name="alf">Alfaiate</string>
+
+    <string name="elemento">ETHERALKI</string>
+    <string name="fogo">Fogo</string>
+    <string name="ar">Ar</string>
+    <string name="agua">Água</string>
+    <string name="sombra">Sombra</string>
+    <string name="luz">Luz</string>
+
+    <string name="Material">MATERIALKI</string>
+    <string name="Alq">Alquimia</string>
+    <string name="Dur">Durastes</string>
+
+    <string name="SalvarPoder">Salvar</string>
+    <string name="LerPoder">Ler</string>
+
+    <string name="poder">Descobrir meu poder</string>
+
+    //Activity_curiosidades
+    <string name="autora">Leigh Bardugo</string>
+    <string name="local">Veja onde a série foi gravada</string>
+    <string name="msg">Conheça a vida da autora de Sombra e ossos</string>
+    <string name="curiosi">CURIOSIDADES</string>
+
+
+    //Activity_localização
+    <string name="titulo">HUNGRIA - Budapeste</string>
+    <string name="salvaloc">Salve sua localização</string>
+
+</resources>
